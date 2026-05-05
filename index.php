@@ -1,1 +1,1 @@
-Hello Azure App
+Hello Azure App.
